@@ -1,7 +1,7 @@
 # Olá, Eu sou Helena
 
 * Estudo Engenharia de Software na Católica SC.
-* Estudando HTML/CSS/Javascript/PHP/JAVA.
+* Estudando HTML/CSS/Javascript/PHP/JAVA/Node.js/Express/Dart.
 * contate-me no e-mail:helenafeliciaoliveira@gmail.com.
      
 <div align="center">
